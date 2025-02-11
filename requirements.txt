@@ -1,1 +1,3 @@
 git+https://github.com/pallets/flask.git
+git+https://github.com/corydolphin/flask-cors.git
+git+https://github.com/psf/requests.git
